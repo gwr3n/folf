@@ -14,6 +14,8 @@
 [![Lint: Ruff](https://img.shields.io/badge/lint-ruff-46a2f1.svg)](https://github.com/astral-sh/ruff)
 [![Type Checked: mypy](https://img.shields.io/badge/type%20checked-mypy-blue.svg)](https://github.com/python/mypy)
 
+![Loss function piecewise linearisation](artifacts/loss_piecewise.png)
+
 ## Features
 
 - Empirical first-order and complementary first-order loss functions
