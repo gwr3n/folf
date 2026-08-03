@@ -4,8 +4,13 @@ Python library implementation of first-order loss function tooling, mirroring th
 
 [![CI](https://github.com/gwren/folf/actions/workflows/ci.yml/badge.svg)](https://github.com/gwren/folf/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/gwren/folf/branch/main/graph/badge.svg)](https://codecov.io/gh/gwren/folf)
+[![PyPI](https://img.shields.io/pypi/v/folf.svg)](https://pypi.org/project/folf/)
+[![PyPI - Wheel](https://img.shields.io/pypi/wheel/folf)](https://pypi.org/project/folf/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gwr3n/folf)](https://github.com/gwr3n/folf/commits/main)
+[![Downloads](https://static.pepy.tech/badge/folf)](https://pepy.tech/project/folf)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Code style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Lint: Ruff](https://img.shields.io/badge/lint-ruff-46a2f1.svg)](https://github.com/astral-sh/ruff)
 [![Type Checked: mypy](https://img.shields.io/badge/type%20checked-mypy-blue.svg)](https://github.com/python/mypy)
 
