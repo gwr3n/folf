@@ -242,9 +242,5 @@ print("q:", q)
 ## Package Layout
 
 - `src/folf`: Main library package
-- `src/folf/utilities`: Utility modules analogous to Java utilities
+- `src/folf/utilities`: Utility modules
 - `tests`: Basic smoke and behavior tests
-
-## Changelog
-
-Release notes follow [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). See [CHANGELOG.md](CHANGELOG.md).
