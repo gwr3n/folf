@@ -2,8 +2,8 @@
 
 Python library implementation of first-order loss function tooling, mirroring the Java classes in `java/folf` and `java/utilities`.
 
-[![CI](https://github.com/gwren/folf/actions/workflows/ci.yml/badge.svg)](https://github.com/gwren/folf/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/gwren/folf/branch/main/graph/badge.svg)](https://codecov.io/gh/gwren/folf)
+[![CI](https://github.com/gwr3n/folf/actions/workflows/ci.yml/badge.svg)](https://github.com/gwren/folf/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/gwr3n/folf/branch/main/graph/badge.svg)](https://codecov.io/gh/gwr3n/folf)
 [![PyPI](https://img.shields.io/pypi/v/folf.svg)](https://pypi.org/project/folf/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/folf)](https://pypi.org/project/folf/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/gwr3n/folf)](https://github.com/gwr3n/folf/commits/main)
