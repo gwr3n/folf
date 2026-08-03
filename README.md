@@ -37,6 +37,15 @@ R. Rossi, S. A. Tarim, B. Hnich, and S. Prestwich,
 *[Applied Mathematics and Computation](https://dx.doi.org/10.1016/j.amc.2014.01.019)*,
 Elsevier, vol. 231, pp. 489-502, 2014.
 
+R. Rossi, E.M.T. Hendrix,
+"[Computing linearisation parameters of arbitrarily distributed first order loss functions](https://gwr3n.github.io/chapters/Rossi_et_al_MAGO_2014_2.pdf),"
+in *Proceedings of MAGO'14, XII Global Optimization Workshop (GOW)*.
+
+R. Rossi, S. Prestwich, and S. A. Tarim,
+"[Mixed-Integer Linear Programming Approximations for the Stochastic Knapsack](https://arxiv.org/abs/2512.14912),"
+*[Computers & Operations Research](https://doi.org/10.1016/j.cor.2026.107571)*,
+Elsevier, Vol. 194: 107571, 2026.
+
 ## Installation
 
 ```bash
