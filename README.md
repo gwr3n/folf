@@ -1,6 +1,6 @@
 # folf
 
-Python library implementation of first-order loss function tooling, mirroring the Java classes in `java/folf` and `java/utilities`.
+`folf` computes Edmundson-Madansky (UB) and Jensen-based (LB) piecewise linear approximations suitable for embedding the first order loss function in mixed-integer linear optimization models.
 
 [![CI](https://github.com/gwr3n/folf/actions/workflows/ci.yml/badge.svg)](https://github.com/gwren/folf/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/gwr3n/folf/branch/main/graph/badge.svg)](https://codecov.io/gh/gwr3n/folf)
@@ -21,13 +21,19 @@ Python library implementation of first-order loss function tooling, mirroring th
 - Jensen partitioners (uniform and minimax)
 - Piecewise linearization helpers and linearization-parameter chooser
 - Probability sampling utilities (SRS and LHS)
-- Utility modules for SHA-256 and JSON serialization
 
 ## Who This Is For
 
 This library is useful when you need approximate or empirical first-order loss
 functions for inventory and stochastic optimization workflows, especially with
 normal or sampled demand models.
+
+## References
+
+R. Rossi, S. A. Tarim, B. Hnich, and S. Prestwich,
+"[Piecewise linear lower and upper bounds for the standard normal first order loss function](https://arxiv.org/abs/1307.1708),"
+*[Applied Mathematics and Computation](https://dx.doi.org/10.1016/j.amc.2014.01.019)*,
+Elsevier, vol. 231, pp. 489-502, 2014.
 
 ## Installation
 

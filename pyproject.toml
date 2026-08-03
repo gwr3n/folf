@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "folf"
-version = "1.0.0"
+version = "1.0.1"
 description = "First-order loss function library with Jensen partitioners and sampling utilities"
 readme = "README.md"
 requires-python = ">=3.10"
