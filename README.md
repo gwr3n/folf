@@ -18,11 +18,20 @@
 
 ## Features
 
-- Empirical first-order and complementary first-order loss functions
-- Scalar-product variants, including multivariate normal closed-form approximation
-- Jensen partitioners (uniform and minimax)
-- Piecewise linearization helpers and linearization-parameter chooser
-- Probability sampling utilities (SRS and LHS)
+- Empirical first-order and complementary first-order loss functions for sums of
+	independent SciPy distributions, with series, plotting, and CSV export
+- Simple random and Latin hypercube sampling, including empirical loss functions
+	for weighted scalar products of random variables
+- Exact closed-form loss functions for scalar projections of multivariate normal
+	demand, using either full covariance or independent-demand variance
+- Uniform and minimax Jensen partitions for standard normal demand, including
+	partition probabilities, conditional means, and maximum approximation error
+- Numerically stable partitioning and linearisation calculations, with tail-safe
+	normal probabilities, log-space breakpoints, and tolerance-aware mass allocation
+- Empirical Jensen piecewise linear lower approximations for both loss-function
+	orientations, with pointwise and maximum error calculations
+- Cached standard normal linearization data and automatic selection of segment
+	and variance-partition counts for a requested error tolerance
 
 ## Who This Is For
 
